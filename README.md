@@ -1,5 +1,4 @@
 1. Create the user using the command below
-
 docker-compose up airflow-init
 
 2. Turn up your docker compose file
